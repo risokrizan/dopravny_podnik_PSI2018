@@ -9,6 +9,9 @@ Celkove hodnotenie:
 /*/ 
 *** chcem vedieť
 
+
+Glossary v EA pozrieť návody 
+Minimálne 4 rozpracovať dopodrobna
 Zapracovat do revizie:
 * Slovnik pojmov - nemame ziadne domenove pojmy? #// 
 
