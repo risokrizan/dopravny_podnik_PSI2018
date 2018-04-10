@@ -9,24 +9,19 @@ Celkove hodnotenie:
 /*/ 
 *** chcem vedieť
 
+
+Glossary v EA pozrieť návody 
+Minimálne 4 rozpracovať dopodrobna
 Zapracovat do revizie:
 * Slovnik pojmov - nemame ziadne domenove pojmy? #// 
 
-* BP01
-    * namiesto by som ako dispecer zaznacil, na ktore zastavky treba osadit oznamy
-    * a potom by sa zaznamenalo, kedy dispecer s pomocnikom pojdu osadit oznamy (resp. vyslu inych na osadenie) /*/
 * BP02
   * koho revizor kontroluje? *** / Implementuj pasažiera 
 
 * BP03
-  * kontrolu vozidiel a trate nemozno miesat - naraz sa vykona jedno a naraz druhe*** // rozdelit tu kontrolu 
-  * "trat" - je potrebne ozrejmit, co sa tym konkretne mysli (trolejove vedenie, trakcne vedenie, ...) ##/ 
+    * "trat" - je potrebne ozrejmit, co sa tym konkretne mysli (trolejove vedenie, trakcne vedenie, ...) ##/ 
 
 * BP04
-  * v pripade casteho pretazenia linky (presahuje kapacitu vozidla) je potrebne posilnit spoje alebo napr. v pripade autobusov vymenit "kratke" autobusy za klbove *** // modifikacia liniek a zadefinovať linku 
-  * zaroven sa pretazenie tyka aj casti dna a casti trasy, nielen za cely den a celu trasu alebo priemerne za mesiac (napr. v Bratislave autobus 39 - kedy a v akych usekoch je natrieskany studentami, kedy je poloprazdny) ***
-  * Vypocitanie uspory - nemusi byt iba pre zrusenie linky, moze byt aj pre upravu intervalov linky #//
-  * Kontrola rentability - prilis siroke, uz potom v rozhodovacom uzle sa rozhoduje iba podla vytazenosti -> lepsi nazov, alebo rozsirit aktivitu, ak do rozhodovania vstupuju aj ine faktory ako vytazenost #//
   * Navrh vedeniu - ludia vo vedeni asi budu vystupovat ako akteri, aktivita teda nebude patrit pod Dispecera #//
 
 * BP05
